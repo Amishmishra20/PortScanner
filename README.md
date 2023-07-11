@@ -4,6 +4,10 @@ Portscanner is python based port and services scanner
 It can be used with a variety of options
 Speed of scanning can also be controlled.
 
+![image](https://github.com/Amishmishra20/PortScanner/assets/92204497/581701f2-b071-47a8-8f26-9764a71980ae)
+![image](https://github.com/Amishmishra20/PortScanner/assets/92204497/6ba2b3ac-04bf-4fae-92a9-861347007426)
+
+
 # Installation
 
 sudo git clone https://github.com/Amishmishra20/PortScanner.git
